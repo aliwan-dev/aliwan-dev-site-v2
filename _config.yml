@@ -1,0 +1,14 @@
+title: Aliwan Dev
+email: aliwan.dev@gmail.com
+description: >-
+  Building simple, fast, and reliable mobile experiences.
+baseurl: ""
+url: "https://aliwan-dev.github.io"
+twitter_username: aliwandev
+github_username:  aliwan-dev
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
